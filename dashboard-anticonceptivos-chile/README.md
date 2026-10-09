@@ -14,7 +14,7 @@
 
 <p align="center"><a href="capturas/01_resumen_rapido.png"><img src="capturas/01_resumen_rapido.png" width="860" alt="Anticonceptivos en Chile"></a></p>
 
-<p align="center"><a href="capturas/02_metodos_larga_duracion.png"><img src="capturas/mini/02_metodos_larga_duracion.png" width="130" alt="Métodos 1: larga duración"></a> <a href="capturas/03_metodos_corta_duracion.png"><img src="capturas/mini/03_metodos_corta_duracion.png" width="130" alt="Métodos 2: corta duración"></a> <a href="capturas/04_eficacia.png"><img src="capturas/mini/04_eficacia.png" width="130" alt="Eficacia"></a> <a href="capturas/05_seguridad.png"><img src="capturas/mini/05_seguridad.png" width="130" alt="Seguridad"></a> <a href="capturas/06_beneficios.png"><img src="capturas/mini/06_beneficios.png" width="130" alt="Beneficios"></a> <a href="capturas/07_mi_pastilla.png"><img src="capturas/mini/07_mi_pastilla.png" width="130" alt="Mi pastilla"></a> <a href="capturas/08_segun_tu_condicion.png"><img src="capturas/mini/08_segun_tu_condicion.png" width="130" alt="Según tu condición"></a> <a href="capturas/09_hormonas.png"><img src="capturas/mini/09_hormonas.png" width="130" alt="Hormonas"></a> <a href="capturas/10_puedo_usarlo.png"><img src="capturas/mini/10_puedo_usarlo.png" width="130" alt="¿Puedo usarlo?"></a> <a href="capturas/11_que_baja_la_eficacia.png"><img src="capturas/mini/11_que_baja_la_eficacia.png" width="130" alt="¿Qué baja la eficacia?"></a> <a href="capturas/12_chile.png"><img src="capturas/mini/12_chile.png" width="130" alt="Chile"></a> <a href="capturas/13_que_mide_cada_kpi.png"><img src="capturas/mini/13_que_mide_cada_kpi.png" width="130" alt="Qué mide cada KPI"></a> <a href="capturas/14_fuentes.png"><img src="capturas/mini/14_fuentes.png" width="130" alt="Fuentes"></a></p>
+<p align="center"><a href="capturas/02_metodos_larga_duracion.png"><img src="capturas/mini/02_metodos_larga_duracion.png" width="130" alt="Métodos 1: larga duración"></a> <a href="capturas/03_metodos_corta_duracion.png"><img src="capturas/mini/03_metodos_corta_duracion.png" width="130" alt="Métodos 2: corta duración"></a> <a href="capturas/04_eficacia.png"><img src="capturas/mini/04_eficacia.png" width="130" alt="Eficacia"></a> <a href="capturas/05_seguridad.png"><img src="capturas/mini/05_seguridad.png" width="130" alt="Seguridad"></a> <a href="capturas/06_beneficios.png"><img src="capturas/mini/06_beneficios.png" width="130" alt="Beneficios"></a> <a href="capturas/07_mi_pastilla.png"><img src="capturas/mini/07_mi_pastilla.png" width="130" alt="Mi pastilla"></a> <a href="capturas/08_segun_tu_condicion.png"><img src="capturas/mini/08_segun_tu_condicion.png" width="130" alt="Según tu condición"></a> <a href="capturas/09_hormonas.png"><img src="capturas/mini/09_hormonas.png" width="130" alt="Hormonas"></a> <a href="capturas/10_puedo_usarlo.png"><img src="capturas/mini/10_puedo_usarlo.png" width="130" alt="¿Puedo usarlo?"></a> <a href="capturas/11_que_baja_la_eficacia.png"><img src="capturas/mini/11_que_baja_la_eficacia.png" width="130" alt="¿Qué baja la eficacia?"></a> <a href="capturas/12_chile.png"><img src="capturas/mini/12_chile.png" width="130" alt="Chile"></a> <a href="capturas/13_que_mide_cada_kpi.png"><img src="capturas/mini/13_que_mide_cada_kpi.png" width="130" alt="Qué mide cada KPI"></a></p>
 
 ---
 
@@ -62,7 +62,7 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 | <a href="capturas/11_que_baja_la_eficacia.png"><img src="capturas/mini/11_que_baja_la_eficacia.png" width="120" alt="¿Qué baja la eficacia?"></a> | ⚠️ **¿Qué baja la eficacia?** | Medicamentos, malestares y cirugías que interfieren. |
 | <a href="capturas/12_chile.png"><img src="capturas/mini/12_chile.png" width="120" alt="Chile"></a> | 🇨🇱 **Chile** | Uso de métodos, inicio en adolescentes y fecundidad adolescente. |
 | <a href="capturas/13_que_mide_cada_kpi.png"><img src="capturas/mini/13_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | 📐 **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
-| <a href="capturas/14_fuentes.png"><img src="capturas/mini/14_fuentes.png" width="120" alt="Fuentes"></a> | 📚 **Fuentes** | Referencias de cada cifra. |
+| | 📚 **Fuentes** | Referencias de cada cifra. |
 
 ---
 
@@ -146,12 +146,6 @@ Fórmula, qué evalúa, por qué importa y meta.
 
 ![Qué mide cada KPI](capturas/13_que_mide_cada_kpi.png)
 
-### 📚 Fuentes
-
-Referencias de cada cifra.
-
-![Fuentes](capturas/14_fuentes.png)
-
 ## 🎨 Vista del tablero en Tableau
 
 El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y controles deslizantes.
@@ -231,12 +225,6 @@ El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y control
 <details><summary>📐 <b>Qué mide cada KPI</b></summary>
 
 ![Qué mide cada KPI en Tableau](capturas/tableau/13_que_mide_cada_kpi.png)
-
-</details>
-
-<details><summary>📚 <b>Fuentes</b></summary>
-
-![Fuentes en Tableau](capturas/tableau/14_fuentes.png)
 
 </details>
 
