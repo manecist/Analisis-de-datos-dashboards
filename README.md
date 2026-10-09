@@ -34,7 +34,7 @@ Cada tablero existe en **Power BI y en Tableau**, con las mismas páginas, y cad
 
 | Vista | Tablero | Pregunta que responde | KPI destacados |
 |:---:|---|---|---|
-| <a href="dashboard-anticonceptivos-chile/"><img src="recursos/mini_anticonceptivos.png" width="140"></a> | 💊 [Anticonceptivos en Chile](dashboard-anticonceptivos-chile/) | ¿Qué método me sirve y qué tan eficaz es? | Eficacia en uso típico y perfecto, seguridad |
+| <a href="dashboard-anticonceptivos-chile/"><img src="recursos/mini_anticonceptivos.png" width="140"></a> | 💊 [Anticonceptivos en Chile](dashboard-anticonceptivos-chile/) | ¿Qué método me sirve y qué tan eficaz es? | Tasa de falla en uso típico, riesgo de trombosis, elegibilidad OMS/CDC, uso de métodos en Chile |
 | <a href="dashboard-its-chile/"><img src="recursos/mini_its.png" width="140"></a> | 🩺 [ITS en Chile](dashboard-its-chile/) | ¿Están aumentando las ITS y dónde está Chile frente al mundo? | 10 ITS, tasa por 100 mil, cascada 95-95-95, sífilis congénita |
 | <a href="dashboard-embarazo-matronas-chile/"><img src="recursos/mini_embarazo.png" width="140"></a> | 🤰 [Embarazo y matronería](dashboard-embarazo-matronas-chile/) | ¿Qué pasa con el embarazo adolescente y las matronas? | Fecundidad 15 a 19 (ODS 3.7.2), mortalidad materna (ODS 3.1.1) |
 | <a href="dashboard-ajuar-chile-crece-contigo/"><img src="recursos/mini_ajuar.png" width="140"></a> | 🍼 [Ajuar Chile Crece Contigo](dashboard-ajuar-chile-crece-contigo/) | ¿Llega el ajuar a todas las guaguas y por qué importa? | Cobertura, costo por set, ejecución presupuestaria |

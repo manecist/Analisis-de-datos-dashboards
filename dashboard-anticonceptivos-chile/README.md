@@ -8,48 +8,237 @@
 <img src="https://img.shields.io/badge/Power%20BI-tablero%20interactivo-F2C811?logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Tableau-tablero%20interactivo-E97627?logo=tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Excel-base%20de%20datos-217346?logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/KPI-10%20indicadores-6B3FD4">
 <img src="https://img.shields.io/badge/fuentes-p%C3%BAblicas-EE6FB0">
 </p>
 
 <p align="center"><a href="capturas/01_resumen_rapido.png"><img src="capturas/01_resumen_rapido.png" width="860" alt="Anticonceptivos en Chile"></a></p>
 
-<p align="center"><a href="capturas/02_eficacia.png"><img src="capturas/mini/02_eficacia.png" width="130" alt="Eficacia"></a> <a href="capturas/03_mi_pastilla.png"><img src="capturas/mini/03_mi_pastilla.png" width="130" alt="Mi pastilla"></a> <a href="capturas/04_puedo_usarlo.png"><img src="capturas/mini/04_puedo_usarlo.png" width="130" alt="¿Puedo usarlo?"></a> <a href="capturas/05_que_baja_la_eficacia.png"><img src="capturas/mini/05_que_baja_la_eficacia.png" width="130" alt="¿Qué baja la eficacia?"></a> <a href="capturas/06_chile.png"><img src="capturas/mini/06_chile.png" width="130" alt="Chile"></a></p>
+<p align="center"><a href="capturas/02_metodos_larga_duracion.png"><img src="capturas/mini/02_metodos_larga_duracion.png" width="130" alt="Métodos 1: larga duración"></a> <a href="capturas/03_metodos_corta_duracion.png"><img src="capturas/mini/03_metodos_corta_duracion.png" width="130" alt="Métodos 2: corta duración"></a> <a href="capturas/04_eficacia.png"><img src="capturas/mini/04_eficacia.png" width="130" alt="Eficacia"></a> <a href="capturas/05_seguridad.png"><img src="capturas/mini/05_seguridad.png" width="130" alt="Seguridad"></a> <a href="capturas/06_beneficios.png"><img src="capturas/mini/06_beneficios.png" width="130" alt="Beneficios"></a> <a href="capturas/07_mi_pastilla.png"><img src="capturas/mini/07_mi_pastilla.png" width="130" alt="Mi pastilla"></a> <a href="capturas/08_segun_tu_condicion.png"><img src="capturas/mini/08_segun_tu_condicion.png" width="130" alt="Según tu condición"></a> <a href="capturas/09_hormonas.png"><img src="capturas/mini/09_hormonas.png" width="130" alt="Hormonas"></a> <a href="capturas/10_puedo_usarlo.png"><img src="capturas/mini/10_puedo_usarlo.png" width="130" alt="¿Puedo usarlo?"></a> <a href="capturas/11_que_baja_la_eficacia.png"><img src="capturas/mini/11_que_baja_la_eficacia.png" width="130" alt="¿Qué baja la eficacia?"></a> <a href="capturas/12_chile.png"><img src="capturas/mini/12_chile.png" width="130" alt="Chile"></a> <a href="capturas/13_que_mide_cada_kpi.png"><img src="capturas/mini/13_que_mide_cada_kpi.png" width="130" alt="Qué mide cada KPI"></a> <a href="capturas/14_fuentes.png"><img src="capturas/mini/14_fuentes.png" width="130" alt="Fuentes"></a></p>
 
 ---
 
 ## ✨ ¿Qué muestra?
 
-Resumen de menor a mayor riesgo, eficacia, seguridad, beneficios, «Mi pastilla» con buscador (más de 140 marcas que se venden en Chile, de la más a la menos eficaz, con disponibilidad en la red pública según MINSAL), según tu condición, hormonas, ¿puedo usarlo? (incluye obesidad, cirugía bariátrica, cáncer, trombosis y medicamentos), **¿qué baja la eficacia?** (antibióticos, antiepilépticos, antirretrovirales, tirzepatida, semaglutida, bypass, vómitos y diarrea), **Chile** (datos DEIS, INE, INJUV, ISP y MINSAL) y fuentes. Power BI (`.pbix` y proyecto `.pbip` comprimido en `.zip`), Tableau (`.twbx`) y base de datos (`.xlsx`).
+<p><img src="recursos/mini_met_implante.png" height="64" alt=""> <img src="recursos/mini_met_diu_hormonal.png" height="64" alt=""> <img src="recursos/mini_met_diu_cobre.png" height="64" alt=""> <img src="recursos/mini_met_pildora_combinada.png" height="64" alt=""> <img src="recursos/mini_met_anillo_vaginal.png" height="64" alt=""> <img src="recursos/mini_met_condon.png" height="64" alt=""> </p>
 
-> 🌙 **Historia de datos interactiva:** está en la página `guia-anticonceptivos.html` de mi portafolio (repositorio **matrona**).
+Todos los métodos anticonceptivos disponibles en Chile: cómo funciona cada uno, su **eficacia** en uso típico y perfecto, su **seguridad** (trombosis, contraindicaciones y cáncer), sus beneficios además de la anticoncepción, una **ficha por marca comercial**, qué conviene según tu condición, cada hormona, los criterios de elegibilidad OMS/CDC, qué medicamentos les bajan la eficacia y los datos de Chile.
+
+Cada página parte con sus **indicadores clave (KPI)** y una página final explica **qué mide cada KPI, cómo se calcula y por qué importa**. Power BI y Tableau tienen las mismas páginas.
 
 ---
 
-## 🖼️ Vista del tablero
+## 📌 KPI que uso y por qué
 
-### Resumen rápido
+| KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |
+|---|---|---|---|---|---|
+| **Tasa de falla en el primer año (uso típico)** | Implante 0,1 · píldora 7 · condón 13 por 100 mujeres | Embarazos no planeados en el primer año de uso ÷ mujeres que usan el método × 100 | Qué tan eficaz es cada método en la vida real, con olvidos y errores | Es el dato clave para elegir: sin método se embarazan 85 de cada 100 mujeres en un año | Menos de 1 por 100 = muy eficaz (OMS) |
+| **Brecha entre uso típico y uso perfecto** | Píldora: 7 vs 0,3 · implante y DIU: 0 | Tasa de falla en uso típico − tasa de falla en uso perfecto | Cuánto depende la eficacia de que la persona lo use bien | Una brecha alta indica que conviene un método que no dependa de la memoria o más apoyo en la consejería | Lo más cercana a 0 |
+| **Riesgo de trombosis venosa por 10.000 mujeres al año** | Píldora con levonorgestrel 5–7 · sin método 2 · embarazo 5–20 · posparto 40–65 | Casos de trombosis venosa ÷ mujeres-año de uso × 10.000 | El principal riesgo de los métodos con estrógeno | Permite elegir el combinado de menor riesgo y no indicarlo con factores de riesgo; el embarazo y el posparto tienen más riesgo | Menor que el riesgo del embarazo |
+| **Riesgo relativo de cáncer de mama con métodos hormonales** | RR 1,20 · 13 casos más por 100.000 usuarias al año | Riesgo en usuarias ÷ riesgo en no usuarias | Si usar hormonas cambia el riesgo de cáncer de mama | El aumento es pequeño en riesgo absoluto y desaparece a los 10 años de suspender; los combinados protegen de cáncer de endometrio y ovario | RR 1 = sin diferencia |
+| **Condiciones de salud que desaconsejan el método (categoría 3 o 4)** | Combinados 37 · inyectable trimestral 16 · implante 6 · DIU de cobre 5 | Número de condiciones con categoría 3 o 4 en los criterios de elegibilidad CDC 2024 | A cuántas personas les sirve el método con seguridad | Menos condiciones = más personas pueden usarlo, incluso con migraña con aura o hipertensión | Categoría 1 o 2 = se puede usar |
+| **Situaciones que bajan la eficacia de algún método** | 14 de 21 situaciones revisadas · DIU y condón: 0 | Situaciones con efecto en al menos un método ÷ situaciones revisadas | Qué medicamentos, malestares o cirugías interfieren con cada método | Permite avisar a tiempo y sumar condón o cambiar a un DIU, que no se afecta con medicamentos | — |
+| **Métodos gratuitos en la red pública** | 13 tipos (2025) | Número de métodos distintos que entrega la atención primaria sin costo | Acceso a la anticoncepción en el sistema público | La Ley 20.418 garantiza información y acceso; más opciones permiten elegir el método adecuado para cada persona | Acceso universal (ODS 3.7) |
+| **Uso de anticonceptivos en mujeres de 15 a 29 años** | 82,6% (2018) | Mujeres de 15 a 29 que declaran usar algún método ÷ mujeres de 15 a 29 encuestadas × 100 | Qué parte de las mujeres jóvenes se protege de un embarazo no planeado | Muestra la cobertura real; el método más usado en la última relación fue el condón (40,5%) | Referencia ODS 3.7.1: demanda satisfecha con métodos modernos |
+| **Adolescentes que inician con un método de larga duración (implante o DIU)** | 8,8% (2018) | Adolescentes que inician implante o DIU ÷ adolescentes que inician un método en el sistema público × 100 | Uso de los métodos más eficaces en adolescentes | Hoy 2 de cada 3 adolescentes parten con píldora o inyectable, que dependen de la memoria | Aumentar: el acceso gratuito a LARC baja el embarazo adolescente |
+| **Tasa de fecundidad adolescente (15 a 19 años)** | 11,0 por 1.000 (2023) · 64,6 en 1992 | Nacidos vivos de madres de 15 a 19 ÷ mujeres de 15 a 19 × 1.000 | Cuántos nacimientos hay por cada 1.000 adolescentes | Es el resultado que más refleja el acceso a anticoncepción y educación sexual | Indicador ODS 3.7.2: seguir bajando |
+
+---
+
+## 🧭 Páginas del tablero
+
+| Vista | Página | Qué encuentras |
+|:---:|---|---|
+| <a href="capturas/01_resumen_rapido.png"><img src="capturas/mini/01_resumen_rapido.png" width="120" alt="Resumen rápido"></a> | 📊 **Resumen rápido** | Eficacia y condiciones que desaconsejan cada método. |
+| <a href="capturas/02_metodos_larga_duracion.png"><img src="capturas/mini/02_metodos_larga_duracion.png" width="120" alt="Métodos 1: larga duración"></a> | 🌱 **Métodos 1: larga duración** | Implante, DIU, inyectables y esterilización, con ilustración y teoría. |
+| <a href="capturas/03_metodos_corta_duracion.png"><img src="capturas/mini/03_metodos_corta_duracion.png" width="120" alt="Métodos 2: corta duración"></a> | 💊 **Métodos 2: corta duración** | Píldoras, anillo, parche, condón y píldora de emergencia. |
+| <a href="capturas/04_eficacia.png"><img src="capturas/mini/04_eficacia.png" width="120" alt="Eficacia"></a> | 🎯 **Eficacia** | Embarazos por 100 mujeres al año, uso típico vs perfecto, con filtros. |
+| <a href="capturas/05_seguridad.png"><img src="capturas/mini/05_seguridad.png" width="120" alt="Seguridad"></a> | 🛡️ **Seguridad** | Trombosis, contraindicaciones del estrógeno y cáncer. |
+| <a href="capturas/06_beneficios.png"><img src="capturas/mini/06_beneficios.png" width="120" alt="Beneficios"></a> | ✨ **Beneficios** | Efecto de cada método en dolor, sangrado, acné, SOP y más. |
+| <a href="capturas/07_mi_pastilla.png"><img src="capturas/mini/07_mi_pastilla.png" width="120" alt="Mi pastilla"></a> | 🔎 **Mi pastilla** | Ficha de 141 marcas comerciales y sus equivalentes. |
+| <a href="capturas/08_segun_tu_condicion.png"><img src="capturas/mini/08_segun_tu_condicion.png" width="120" alt="Según tu condición"></a> | 🩺 **Según tu condición** | Qué conviene y qué evitar en 18 condiciones. |
+| <a href="capturas/09_hormonas.png"><img src="capturas/mini/09_hormonas.png" width="120" alt="Hormonas"></a> | 🧬 **Hormonas** | Cada estrógeno y progestina: beneficios, riesgos y cuándo usarla. |
+| <a href="capturas/10_puedo_usarlo.png"><img src="capturas/mini/10_puedo_usarlo.png" width="120" alt="¿Puedo usarlo?"></a> | ✅ **¿Puedo usarlo?** | Criterios de elegibilidad CDC 2024 / OMS en 73 condiciones. |
+| <a href="capturas/11_que_baja_la_eficacia.png"><img src="capturas/mini/11_que_baja_la_eficacia.png" width="120" alt="¿Qué baja la eficacia?"></a> | ⚠️ **¿Qué baja la eficacia?** | Medicamentos, malestares y cirugías que interfieren. |
+| <a href="capturas/12_chile.png"><img src="capturas/mini/12_chile.png" width="120" alt="Chile"></a> | 🇨🇱 **Chile** | Uso de métodos, inicio en adolescentes y fecundidad adolescente. |
+| <a href="capturas/13_que_mide_cada_kpi.png"><img src="capturas/mini/13_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | 📐 **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
+| <a href="capturas/14_fuentes.png"><img src="capturas/mini/14_fuentes.png" width="120" alt="Fuentes"></a> | 📚 **Fuentes** | Referencias de cada cifra. |
+
+---
+
+## 📊 Vista del tablero en Power BI
+
+### 📊 Resumen rápido
+
+Eficacia y condiciones que desaconsejan cada método.
 
 ![Resumen rápido](capturas/01_resumen_rapido.png)
 
-### Eficacia
+### 🌱 Métodos 1: larga duración
 
-![Eficacia](capturas/02_eficacia.png)
+Implante, DIU, inyectables y esterilización, con ilustración y teoría.
 
-### Mi pastilla
+![Métodos 1: larga duración](capturas/02_metodos_larga_duracion.png)
 
-![Mi pastilla](capturas/03_mi_pastilla.png)
+### 💊 Métodos 2: corta duración
 
-### ¿Puedo usarlo?
+Píldoras, anillo, parche, condón y píldora de emergencia.
 
-![¿Puedo usarlo?](capturas/04_puedo_usarlo.png)
+![Métodos 2: corta duración](capturas/03_metodos_corta_duracion.png)
 
-### ¿Qué baja la eficacia?
+### 🎯 Eficacia
 
-![¿Qué baja la eficacia?](capturas/05_que_baja_la_eficacia.png)
+Embarazos por 100 mujeres al año, uso típico vs perfecto, con filtros.
 
-### Chile
+![Eficacia](capturas/04_eficacia.png)
 
-![Chile](capturas/06_chile.png)
+### 🛡️ Seguridad
+
+Trombosis, contraindicaciones del estrógeno y cáncer.
+
+![Seguridad](capturas/05_seguridad.png)
+
+### ✨ Beneficios
+
+Efecto de cada método en dolor, sangrado, acné, SOP y más.
+
+![Beneficios](capturas/06_beneficios.png)
+
+### 🔎 Mi pastilla
+
+Ficha de 141 marcas comerciales y sus equivalentes.
+
+![Mi pastilla](capturas/07_mi_pastilla.png)
+
+### 🩺 Según tu condición
+
+Qué conviene y qué evitar en 18 condiciones.
+
+![Según tu condición](capturas/08_segun_tu_condicion.png)
+
+### 🧬 Hormonas
+
+Cada estrógeno y progestina: beneficios, riesgos y cuándo usarla.
+
+![Hormonas](capturas/09_hormonas.png)
+
+### ✅ ¿Puedo usarlo?
+
+Criterios de elegibilidad CDC 2024 / OMS en 73 condiciones.
+
+![¿Puedo usarlo?](capturas/10_puedo_usarlo.png)
+
+### ⚠️ ¿Qué baja la eficacia?
+
+Medicamentos, malestares y cirugías que interfieren.
+
+![¿Qué baja la eficacia?](capturas/11_que_baja_la_eficacia.png)
+
+### 🇨🇱 Chile
+
+Uso de métodos, inicio en adolescentes y fecundidad adolescente.
+
+![Chile](capturas/12_chile.png)
+
+### 📐 Qué mide cada KPI
+
+Fórmula, qué evalúa, por qué importa y meta.
+
+![Qué mide cada KPI](capturas/13_que_mide_cada_kpi.png)
+
+### 📚 Fuentes
+
+Referencias de cada cifra.
+
+![Fuentes](capturas/14_fuentes.png)
+
+## 🎨 Vista del tablero en Tableau
+
+El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y controles deslizantes.
+
+<details><summary>📊 <b>Resumen rápido</b></summary>
+
+![Resumen rápido en Tableau](capturas/tableau/01_resumen_rapido.png)
+
+</details>
+
+<details><summary>🌱 <b>Métodos 1: larga duración</b></summary>
+
+![Métodos 1: larga duración en Tableau](capturas/tableau/02_metodos_larga_duracion.png)
+
+</details>
+
+<details><summary>💊 <b>Métodos 2: corta duración</b></summary>
+
+![Métodos 2: corta duración en Tableau](capturas/tableau/03_metodos_corta_duracion.png)
+
+</details>
+
+<details><summary>🎯 <b>Eficacia</b></summary>
+
+![Eficacia en Tableau](capturas/tableau/04_eficacia.png)
+
+</details>
+
+<details><summary>🛡️ <b>Seguridad</b></summary>
+
+![Seguridad en Tableau](capturas/tableau/05_seguridad.png)
+
+</details>
+
+<details><summary>✨ <b>Beneficios</b></summary>
+
+![Beneficios en Tableau](capturas/tableau/06_beneficios.png)
+
+</details>
+
+<details><summary>🔎 <b>Mi pastilla</b></summary>
+
+![Mi pastilla en Tableau](capturas/tableau/07_mi_pastilla.png)
+
+</details>
+
+<details><summary>🩺 <b>Según tu condición</b></summary>
+
+![Según tu condición en Tableau](capturas/tableau/08_segun_tu_condicion.png)
+
+</details>
+
+<details><summary>🧬 <b>Hormonas</b></summary>
+
+![Hormonas en Tableau](capturas/tableau/09_hormonas.png)
+
+</details>
+
+<details><summary>✅ <b>¿Puedo usarlo?</b></summary>
+
+![¿Puedo usarlo? en Tableau](capturas/tableau/10_puedo_usarlo.png)
+
+</details>
+
+<details><summary>⚠️ <b>¿Qué baja la eficacia?</b></summary>
+
+![¿Qué baja la eficacia? en Tableau](capturas/tableau/11_que_baja_la_eficacia.png)
+
+</details>
+
+<details><summary>🇨🇱 <b>Chile</b></summary>
+
+![Chile en Tableau](capturas/tableau/12_chile.png)
+
+</details>
+
+<details><summary>📐 <b>Qué mide cada KPI</b></summary>
+
+![Qué mide cada KPI en Tableau](capturas/tableau/13_que_mide_cada_kpi.png)
+
+</details>
+
+<details><summary>📚 <b>Fuentes</b></summary>
+
+![Fuentes en Tableau](capturas/tableau/14_fuentes.png)
+
+</details>
 
 ---
 
@@ -62,43 +251,29 @@ La presentación [`Salud_Chile_en_datos_MariaCisterna.pptx`](../presentacion/Sal
 ## 📁 Archivos
 
 | | Archivo | Qué es |
-|---|---|---|
-| 🗂️ | `Anticonceptivos_BaseDatos.xlsx` | **Base de datos** con todas las tablas y la hoja `Fuentes`. |
+|:---:|---|---|
 | 📊 | `Anticonceptivos_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
-| 📈 | `Anticonceptivos_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Reader (gratis). |
+| 🎨 | `Anticonceptivos_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
 | 🧩 | `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
-
----
-
-## 🧭 Páginas del tablero
-
-1. **Resumen rápido**
-2. **Eficacia**
-3. **Seguridad**
-4. **Beneficios**
-5. **Mi pastilla**
-6. **Según tu condición**
-7. **Hormonas**
-8. **¿Puedo usarlo?**
-9. **¿Qué baja la eficacia?**
-10. **Chile**
-11. **Fuentes**
+| 🗂️ | `Anticonceptivos_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
+| 🖼️ | `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
+| 🎀 | `recursos/` | Logo con registro y fondo usados en los tableros. |
 
 ---
 
 ## 🛠️ Cómo abrirlo
 
 1. Descarga el repositorio: botón verde **Code → Download ZIP** y descomprímelo.
-2. Abre `Anticonceptivos_MariaCisterna.pbix` con **Power BI Desktop** (se descarga gratis desde Microsoft Store).
-3. Si quieres actualizar los datos con tu copia del Excel: **Transformar datos → Administrar parámetros → RutaBaseDatos**, pega la ruta del `.xlsx` en tu computador y aprieta **Actualizar**.
+2. **Power BI:** abre `Anticonceptivos_MariaCisterna.pbix`. Para actualizar con tu copia del Excel: **Transformar datos → Administrar parámetros → RutaBaseDatos**, pega la ruta del `.xlsx` y aprieta **Actualizar**.
+3. **Tableau:** abre `Anticonceptivos_MariaCisterna.twbx`; los datos ya vienen incluidos.
 
-> 💡 **Tip:** las páginas con lista a la izquierda son interactivas: elige una opción y el tablero cambia.
+> 💡 **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
 
 ---
 
 ## 🗂️ Base de datos
 
-`Anticonceptivos_BaseDatos.xlsx` trae estas hojas: `Metodos`, `Beneficios`, `RiesgoTrombosis`, `CancerMama`, `GuiaNecesidad`, `Aspectos`, `EficaciaLarga`, `RiesgoLarga`, `ContraindicacionesEstrogeno`, `Fuentes`, `Hormonas`, `Elegibilidad`, `Equivalencias`, `FichaProducto`, `FichaLarga`, `ResumenMetodos`, `GuiaCondicion`, `CancerHormonal`, `FuentesHormonas`, `Interacciones`, `ChileInicioAdolescentes`, `ChileIndicadores`.
+`Anticonceptivos_BaseDatos.xlsx` trae estas hojas: `Metodos`, `Beneficios`, `RiesgoTrombosis`, `CancerMama`, `GuiaNecesidad`, `Aspectos`, `EficaciaLarga`, `RiesgoLarga`, `ContraindicacionesEstrogeno`, `KPI`, `KPILargo`, `Fuentes`, `Hormonas`, `Elegibilidad`, `Equivalencias`, `FichaProducto`, `FichaLarga`, `ResumenMetodos`, `GuiaCondicion`, `CancerHormonal`, `FuentesHormonas`, `Interacciones`, `ChileInicioAdolescentes`, `ChileIndicadores`.
 
 Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato público, queda vacío: **no se inventaron cifras**.
 
