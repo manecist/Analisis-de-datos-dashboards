@@ -28,6 +28,23 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
+## 🔍 Qué investigué
+
+Revisé los boletines de vigilancia del MINSAL y el ISP, la cascada de VIH de ONUSIDA y comparé Chile con Estados Unidos y la Unión Europea. También revisé qué ITS se vigilan en Chile y cuáles no.
+
+## 💡 Lo que observé
+
+- 📈 La sífilis subió 64% desde 2020 y llegó a 55,2 por 100 mil en 2025: casi igual a EE.UU. (62,5) y 5 veces Europa (10,8).
+- 🔴 VIH: 95% de las personas conoce su diagnóstico, pero solo 71% está en tratamiento; 21.915 personas diagnosticadas no lo reciben.
+- 🔬 Solo 4 de las 10 ITS revisadas son de notificación obligatoria; clamidia, VPH, herpes y tricomoniasis casi no tienen datos en Chile.
+- 👥 La sífilis se concentra entre los 20 y 29 años y la gonorrea crece más rápido en mujeres.
+
+## 🎯 Lo que concluyo
+
+> Las ITS van en sentido contrario al embarazo adolescente: hace falta más testeo, tratamiento oportuno y uso de condón, y medir las ITS que hoy no se vigilan.
+
+---
+
 ## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |

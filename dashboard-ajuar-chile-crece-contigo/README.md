@@ -28,6 +28,23 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
+## 🔍 Qué investigué
+
+Revisé las evaluaciones de DIPRES, la glosa presupuestaria del MINSAL, Cenabast, Chile Crece Contigo y los nacidos vivos del INE para entender cuánto llega el ajuar y cuánto cuesta.
+
+## 💡 Lo que observé
+
+- 🍼 Entre 97% y 99% de las guaguas que nacen en la red pública recibe el set (2019–2022).
+- 📉 Los sets entregados bajan (141.883 en 2018, 113.858 en 2022) porque nacen menos guaguas, no porque falle el programa.
+- 💰 Cada set cuesta cerca de $67.480 y la ejecución del presupuesto fue 85% en 2018; en 2026 el presupuesto bajó 10,5%.
+- 🎓 95,5% de las madres participa en el taller educativo, donde aprende sueño seguro, lactancia y cuidados.
+
+## 🎯 Lo que concluyo
+
+> El ajuar llega a casi todas las familias de la red pública; cuidar la cadena de compra y el taller es lo que mantiene ese logro.
+
+---
+
 ## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |

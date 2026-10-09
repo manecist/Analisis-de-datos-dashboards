@@ -26,6 +26,24 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
+## 🔍 Qué investigué
+
+Usé estadísticas vitales del INE y DEIS, el Registro Nacional de Prestadores de la Superintendencia de Salud, estimaciones de ONU/OMS de mortalidad materna y la evidencia Cochrane sobre la continuidad de atención por matronas.
+
+## 💡 Lo que observé
+
+- 👧 La fecundidad de 15 a 19 años bajó de 23,2 a 8,3 por mil entre 2018 y 2025: cayó a un tercio.
+- ⚠️ Aún nacen 146 guaguas al año de madres de 10 a 14 años: todo embarazo a esa edad debe investigarse.
+- 🩺 Las matronas inscritas crecieron de 13.723 a 23.333 (+70%) entre 2018 y 2025.
+- ❤️ La mortalidad materna de Chile (10 por 100 mil nacidos vivos) es de las más bajas de la región.
+- 📭 El último dato nacional de embarazo no planificado es de 2010.
+
+## 🎯 Lo que concluyo
+
+> La prevención funciona y Chile tiene más matronas que nunca: el desafío es ponerlas donde está la prevención, como los colegios, y volver a medir el embarazo no planificado.
+
+---
+
 ## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |

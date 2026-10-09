@@ -28,6 +28,24 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
+## 🔍 Qué investigué
+
+Comparé la eficacia de cada método en uso típico y perfecto, sus riesgos (trombosis, cáncer), los criterios de elegibilidad OMS/CDC 2024 en 73 condiciones, las interacciones con medicamentos y cómo se usan los métodos en Chile.
+
+## 💡 Lo que observé
+
+- 🎯 El implante y el DIU hormonal tienen 0,1 embarazos por 100 mujeres al año; la píldora, 7 en uso típico: la diferencia no es el método sino los olvidos.
+- 🧒 Solo 8,8% de las adolescentes inicia con implante o DIU; 2 de cada 3 parten con píldora o inyectable.
+- 🛡️ Los métodos combinados tienen 37 condiciones que los desaconsejan; el implante, 6, y el DIU de cobre, 5.
+- 💊 14 de 21 medicamentos o situaciones revisadas bajan la eficacia de algún método; ninguna afecta al DIU ni al condón.
+- 🩸 El riesgo de trombosis de la píldora con levonorgestrel (5 a 7 por 10.000) es menor que el del embarazo (5 a 20) y el posparto (40 a 65).
+
+## 🎯 Lo que concluyo
+
+> Elegir bien es más importante que elegir cualquier método: ofrecer primero los métodos de larga duración, sobre todo a adolescentes, es la medida con más impacto.
+
+---
+
 ## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |

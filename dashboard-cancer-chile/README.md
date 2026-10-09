@@ -28,6 +28,24 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
+## 🔍 Qué investigué
+
+Usé las defunciones del DEIS, las estimaciones de GLOBOCAN (IARC), la Encuesta Nacional de Salud y datos de cobertura de mamografía, PAP y vacuna VPH, además de la sobrevida por etapa.
+
+## 💡 Lo que observé
+
+- 🎗️ En 2024 hubo cerca de 59.887 casos nuevos y el cáncer causa 1 de cada 4 muertes en Chile.
+- 📈 Las muertes por cáncer aumentaron 71% entre 2001 y 2024, en parte por el envejecimiento de la población.
+- 🔍 Solo 37,4% de las mujeres de 50 a 69 años tiene su mamografía al día; la meta es 70%.
+- ⏱️ Cáncer de mama detectado localizado: 99% de sobrevida a 5 años; con metástasis: 32%.
+- 🛡️ Cerca de 37,8% de los cánceres se asocia a factores que se pueden modificar.
+
+## 🎯 Lo que concluyo
+
+> En cáncer, llegar a tiempo cambia todo: subir la pesquisa (mamografía, PAP, test VPH) y completar la vacuna VPH es lo que más vidas salva.
+
+---
+
 ## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |
