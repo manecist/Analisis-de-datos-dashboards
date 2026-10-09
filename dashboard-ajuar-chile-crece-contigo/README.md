@@ -1,6 +1,6 @@
 <p align="center"><img src="recursos/logo_maria_cisterna.png" alt="María Cisterna · Matrona · Registro Superintendencia de Salud N° 561993" width="460"></p>
 
-<h1 align="center">El ajuar de Chile Crece Contigo (PARN)</h1>
+<h1 align="center">🍼 El ajuar de Chile Crece Contigo (PARN)</h1>
 
 <p align="center"><b>María Cisterna Escobar · Matrona</b> — Registro Superintendencia de Salud N° 561993</p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## ¿Qué muestra?
+## ✨ ¿Qué muestra?
 
 <p><img src="recursos/mini_cuidado_ojos.png" height="64" alt=""> <img src="recursos/mini_cuidado_nariz.png" height="64" alt=""> <img src="recursos/mini_cuidado_boca.png" height="64" alt=""> <img src="recursos/mini_cuidado_orejas.png" height="64" alt=""> <img src="recursos/mini_cuidado_unas.png" height="64" alt=""> <img src="recursos/mini_cuidado_panal.png" height="64" alt=""> </p>
 
@@ -28,7 +28,7 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
-## KPI que uso y por qué
+## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |
 |---|---|---|---|---|---|
@@ -43,106 +43,106 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
-## Páginas del tablero
+## 🧭 Páginas del tablero
 
 | Vista | Página | Qué encuentras |
 |:---:|---|---|
-| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | **Resumen** | Indicadores clave, hallazgos y datos clave. |
-| <a href="capturas/02_entregas_y_cobertura.png"><img src="capturas/mini/02_entregas_y_cobertura.png" width="120" alt="Entregas y cobertura"></a> | **Entregas y cobertura** | Sets por año, cobertura y nacidos vivos. |
-| <a href="capturas/03_presupuesto.png"><img src="capturas/mini/03_presupuesto.png" width="120" alt="Presupuesto"></a> | **Presupuesto** | Presupuesto, costo por set y ejecución. |
-| <a href="capturas/04_cadena_logistica.png"><img src="capturas/mini/04_cadena_logistica.png" width="120" alt="Cadena logística"></a> | **Cadena logística** | Las 8 etapas: quién, qué, cuánto tarda y punto crítico. |
-| <a href="capturas/05_que_contiene.png"><img src="capturas/mini/05_que_contiene.png" width="120" alt="¿Qué contiene?"></a> | **¿Qué contiene?** | Los 17 artículos de los dos paquetes. |
-| <a href="capturas/06_por_que_es_importante.png"><img src="capturas/mini/06_por_que_es_importante.png" width="120" alt="¿Por qué es importante?"></a> | **¿Por qué es importante?** | Beneficios y primeros cuidados del recién nacido. |
-| <a href="capturas/07_que_mide_cada_kpi.png"><img src="capturas/mini/07_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
-| | **Fuentes** | Referencias de cada cifra. |
+| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | 📊 **Resumen** | Indicadores clave, hallazgos y datos clave. |
+| <a href="capturas/02_entregas_y_cobertura.png"><img src="capturas/mini/02_entregas_y_cobertura.png" width="120" alt="Entregas y cobertura"></a> | 📦 **Entregas y cobertura** | Sets por año, cobertura y nacidos vivos. |
+| <a href="capturas/03_presupuesto.png"><img src="capturas/mini/03_presupuesto.png" width="120" alt="Presupuesto"></a> | 💰 **Presupuesto** | Presupuesto, costo por set y ejecución. |
+| <a href="capturas/04_cadena_logistica.png"><img src="capturas/mini/04_cadena_logistica.png" width="120" alt="Cadena logística"></a> | 🔗 **Cadena logística** | Las 8 etapas: quién, qué, cuánto tarda y punto crítico. |
+| <a href="capturas/05_que_contiene.png"><img src="capturas/mini/05_que_contiene.png" width="120" alt="¿Qué contiene?"></a> | 🎁 **¿Qué contiene?** | Los 17 artículos de los dos paquetes. |
+| <a href="capturas/06_por_que_es_importante.png"><img src="capturas/mini/06_por_que_es_importante.png" width="120" alt="¿Por qué es importante?"></a> | 💜 **¿Por qué es importante?** | Beneficios y primeros cuidados del recién nacido. |
+| <a href="capturas/07_que_mide_cada_kpi.png"><img src="capturas/mini/07_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | 📐 **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
+| | 📚 **Fuentes** | Referencias de cada cifra. |
 
 ---
 
-## Vista del tablero en Power BI
+## 📊 Vista del tablero en Power BI
 
-### Resumen
+### 📊 Resumen
 
 Indicadores clave, hallazgos y datos clave.
 
 ![Resumen](capturas/01_resumen.png)
 
-### Entregas y cobertura
+### 📦 Entregas y cobertura
 
 Sets por año, cobertura y nacidos vivos.
 
 ![Entregas y cobertura](capturas/02_entregas_y_cobertura.png)
 
-### Presupuesto
+### 💰 Presupuesto
 
 Presupuesto, costo por set y ejecución.
 
 ![Presupuesto](capturas/03_presupuesto.png)
 
-### Cadena logística
+### 🔗 Cadena logística
 
 Las 8 etapas: quién, qué, cuánto tarda y punto crítico.
 
 ![Cadena logística](capturas/04_cadena_logistica.png)
 
-### ¿Qué contiene?
+### 🎁 ¿Qué contiene?
 
 Los 17 artículos de los dos paquetes.
 
 ![¿Qué contiene?](capturas/05_que_contiene.png)
 
-### ¿Por qué es importante?
+### 💜 ¿Por qué es importante?
 
 Beneficios y primeros cuidados del recién nacido.
 
 ![¿Por qué es importante?](capturas/06_por_que_es_importante.png)
 
-### Qué mide cada KPI
+### 📐 Qué mide cada KPI
 
 Fórmula, qué evalúa, por qué importa y meta.
 
 ![Qué mide cada KPI](capturas/07_que_mide_cada_kpi.png)
 
-## Vista del tablero en Tableau
+## 🎨 Vista del tablero en Tableau
 
 El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y controles deslizantes.
 
-<details><summary><b>Resumen</b></summary>
+<details><summary>📊 <b>Resumen</b></summary>
 
 ![Resumen en Tableau](capturas/tableau/01_resumen.png)
 
 </details>
 
-<details><summary><b>Entregas y cobertura</b></summary>
+<details><summary>📦 <b>Entregas y cobertura</b></summary>
 
 ![Entregas y cobertura en Tableau](capturas/tableau/02_entregas_y_cobertura.png)
 
 </details>
 
-<details><summary><b>Presupuesto</b></summary>
+<details><summary>💰 <b>Presupuesto</b></summary>
 
 ![Presupuesto en Tableau](capturas/tableau/03_presupuesto.png)
 
 </details>
 
-<details><summary><b>Cadena logística</b></summary>
+<details><summary>🔗 <b>Cadena logística</b></summary>
 
 ![Cadena logística en Tableau](capturas/tableau/04_cadena_logistica.png)
 
 </details>
 
-<details><summary><b>¿Qué contiene?</b></summary>
+<details><summary>🎁 <b>¿Qué contiene?</b></summary>
 
 ![¿Qué contiene? en Tableau](capturas/tableau/05_que_contiene.png)
 
 </details>
 
-<details><summary><b>¿Por qué es importante?</b></summary>
+<details><summary>💜 <b>¿Por qué es importante?</b></summary>
 
 ![¿Por qué es importante? en Tableau](capturas/tableau/06_por_que_es_importante.png)
 
 </details>
 
-<details><summary><b>Qué mide cada KPI</b></summary>
+<details><summary>📐 <b>Qué mide cada KPI</b></summary>
 
 ![Qué mide cada KPI en Tableau](capturas/tableau/07_que_mide_cada_kpi.png)
 
@@ -150,30 +150,36 @@ El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y control
 
 ---
 
-## Archivos
+## 🎤 Presentación
 
-| Archivo | Qué es |
-|---|---|
-| `Ajuar_PARN_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
-| `Ajuar_PARN_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
-| `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
-| `Ajuar_PARN_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
-| `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
-| `recursos/` | Logo con registro y fondo usados en los tableros. |
+La presentación [`Salud_Chile_en_datos_MariaCisterna.pptx`](../presentacion/Salud_Chile_en_datos_MariaCisterna.pptx) resume los cinco tableros: antes y ahora, Chile frente al mundo, métricas frente a sus metas, hallazgos, medidas y conclusiones.
 
 ---
 
-## Cómo abrirlo
+## 📁 Archivos
+
+| | Archivo | Qué es |
+|:---:|---|---|
+| 📊 | `Ajuar_PARN_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
+| 🎨 | `Ajuar_PARN_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
+| 🧩 | `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
+| 🗂️ | `Ajuar_PARN_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
+| 🖼️ | `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
+| 🎀 | `recursos/` | Logo con registro y fondo usados en los tableros. |
+
+---
+
+## 🛠️ Cómo abrirlo
 
 1. Descarga el repositorio: botón verde **Code → Download ZIP** y descomprímelo.
 2. **Power BI:** abre `Ajuar_PARN_MariaCisterna.pbix`. Para actualizar con tu copia del Excel: **Transformar datos → Administrar parámetros → RutaBaseDatos**, pega la ruta del `.xlsx` y aprieta **Actualizar**.
 3. **Tableau:** abre `Ajuar_PARN_MariaCisterna.twbx`; los datos ya vienen incluidos.
 
-> **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
+> 💡 **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
 
 ---
 
-## Base de datos
+## 🗂️ Base de datos
 
 `Ajuar_PARN_BaseDatos.xlsx` trae estas hojas: `Entregas`, `Presupuesto`, `CadenaLogistica`, `Contenido`, `Indicadores`, `Hallazgos`, `KPI`, `KPILargo`, `Fuentes`.
 
@@ -181,7 +187,7 @@ Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato p�
 
 ---
 
-## Fuentes
+## 📚 Fuentes
 
 - **P1** · Chile Crece Contigo: Programa de Apoyo al Recién Nacido (contenido, requisitos y entrega). — [enlace](https://www.crececontigo.gob.cl/beneficios/programa-de-apoyo-al-recien-nacido/)
 - **P2** · Chile Crece Contigo: requisitos para recibir el set de implementos del PARN. — [enlace](https://www.crececontigo.gob.cl/faqs/cuales-son-los-requisitos-para-recibir-el-set-de-implementos-del-parn/)
@@ -194,10 +200,10 @@ Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato p�
 
 ---
 
-## Aviso
+## ⚠️ Aviso
 
 Material educativo y de análisis de datos. **No reemplaza la consejería ni el control con un profesional de salud.**
 
-## Derechos
+## ©️ Derechos
 
 © 2026 María Cisterna Escobar, matrona. Todos los derechos reservados: puedes ver y compartir el enlace, pero no copiar ni reutilizar el contenido sin autorización. Ver `LICENSE`.

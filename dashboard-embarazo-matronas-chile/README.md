@@ -1,6 +1,6 @@
 <p align="center"><img src="recursos/logo_maria_cisterna.png" alt="María Cisterna · Matrona · Registro Superintendencia de Salud N° 561993" width="460"></p>
 
-<h1 align="center">Embarazo no planificado y matronería en Chile</h1>
+<h1 align="center">🤰 Embarazo no planificado y matronería en Chile</h1>
 
 <p align="center"><b>María Cisterna Escobar · Matrona</b> — Registro Superintendencia de Salud N° 561993</p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## ¿Qué muestra?
+## ✨ ¿Qué muestra?
 
 Embarazo adolescente, matronas en Chile, mortalidad materna y neonatal, lo que dice la evidencia sobre más matronas, propuestas y un **simulador** de educación sexual integral con matronas en los colegios y entrega de anticonceptivos desde los 14 años.
 
@@ -26,7 +26,7 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
-## KPI que uso y por qué
+## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |
 |---|---|---|---|---|---|
@@ -43,138 +43,138 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
-## Simulador: ¿qué pasaría con matronas en los colegios?
+## 🏫 Simulador: ¿qué pasaría con matronas en los colegios?
 
 <a href="capturas/07_simulador_matronas_en_colegios.png"><img src="capturas/mini/07_simulador_matronas_en_colegios.png" width="330" align="right" alt="Simulador"></a>
 
 Página interactiva, en Power BI y en Tableau, para explorar escenarios de prevención:
 
-- **% de colegios con matrona:** qué parte de los colegios tendría una matrona haciendo educación sexual integral.
-- **Anticonceptivos desde los 14 años:** si además se entregan métodos (la Ley 20.418 garantiza información y acceso; desde los 14 años la atención es confidencial).
-- **Escenario de efecto:** 5% (conservador) o 10% (alto) menos nacimientos adolescentes, según la evidencia de acceso gratuito a DIU e implantes.
-- **Más uso de condón:** cuántos puntos sube el uso de condón gracias a la educación; el condón usado siempre reduce cerca de 80% la transmisión del VIH.
+- 🏫 **% de colegios con matrona:** qué parte de los colegios tendría una matrona haciendo educación sexual integral.
+- 💊 **Anticonceptivos desde los 14 años:** si además se entregan métodos (la Ley 20.418 garantiza información y acceso; desde los 14 años la atención es confidencial).
+- 📊 **Escenario de efecto:** 5% (conservador) o 10% (alto) menos nacimientos adolescentes, según la evidencia de acceso gratuito a DIU e implantes.
+- 🛡️ **Más uso de condón:** cuántos puntos sube el uso de condón gracias a la educación; el condón usado siempre reduce cerca de 80% la transmisión del VIH.
 
 El tablero calcula los **nacimientos adolescentes evitados**, la **tasa de 15 a 19 años proyectada** y los **casos de gonorrea y sífilis evitados**, y explica cómo ayuda la matrona: educación sexual integral, receta de DIU, implante y otros métodos (Ley 20.533), test rápido de VIH y sífilis y atención confidencial.
 
 <br clear="right">
 
-> Es una **simulación educativa con supuestos explícitos**, no una proyección oficial. La educación sola, sin acceso a métodos, no mostró un efecto claro en embarazos (Cochrane 2016): por eso el simulador separa los dos efectos.
+> ⚠️ Es una **simulación educativa con supuestos explícitos**, no una proyección oficial. La educación sola, sin acceso a métodos, no mostró un efecto claro en embarazos (Cochrane 2016): por eso el simulador separa los dos efectos.
 
 ---
 
-## Páginas del tablero
+## 🧭 Páginas del tablero
 
 | Vista | Página | Qué encuentras |
 |:---:|---|---|
-| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | **Resumen** | Indicadores clave y hallazgos. |
-| <a href="capturas/02_embarazo_adolescente.png"><img src="capturas/mini/02_embarazo_adolescente.png" width="120" alt="Embarazo adolescente"></a> | **Embarazo adolescente** | Fecundidad de 15 a 19 años y nacidos de madres adolescentes. |
-| <a href="capturas/03_matronas_en_chile.png"><img src="capturas/mini/03_matronas_en_chile.png" width="120" alt="Matronas en Chile"></a> | **Matronas en Chile** | Inscritas por año y comparación con otras profesiones. |
-| <a href="capturas/04_mortalidad_materna_y_neonatal.png"><img src="capturas/mini/04_mortalidad_materna_y_neonatal.png" width="120" alt="Mortalidad materna y neonatal"></a> | **Mortalidad materna y neonatal** | Chile, la región y el mundo. |
-| <a href="capturas/05_lo_que_dice_la_evidencia.png"><img src="capturas/mini/05_lo_que_dice_la_evidencia.png" width="120" alt="Lo que dice la evidencia"></a> | **Lo que dice la evidencia** | Estudios y competencias de la matrona. |
-| <a href="capturas/06_propuestas.png"><img src="capturas/mini/06_propuestas.png" width="120" alt="Propuestas"></a> | **Propuestas** | Dónde suma una matrona. |
-| <a href="capturas/07_simulador_matronas_en_colegios.png"><img src="capturas/mini/07_simulador_matronas_en_colegios.png" width="120" alt="Simulador: matronas en colegios"></a> | **Simulador: matronas en colegios** | Educación + anticonceptivos desde los 14 años. |
-| <a href="capturas/08_que_mide_cada_kpi.png"><img src="capturas/mini/08_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
-| | **Fuentes** | Referencias de cada cifra. |
+| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | 📊 **Resumen** | Indicadores clave y hallazgos. |
+| <a href="capturas/02_embarazo_adolescente.png"><img src="capturas/mini/02_embarazo_adolescente.png" width="120" alt="Embarazo adolescente"></a> | 👧 **Embarazo adolescente** | Fecundidad de 15 a 19 años y nacidos de madres adolescentes. |
+| <a href="capturas/03_matronas_en_chile.png"><img src="capturas/mini/03_matronas_en_chile.png" width="120" alt="Matronas en Chile"></a> | 🩺 **Matronas en Chile** | Inscritas por año y comparación con otras profesiones. |
+| <a href="capturas/04_mortalidad_materna_y_neonatal.png"><img src="capturas/mini/04_mortalidad_materna_y_neonatal.png" width="120" alt="Mortalidad materna y neonatal"></a> | ❤️ **Mortalidad materna y neonatal** | Chile, la región y el mundo. |
+| <a href="capturas/05_lo_que_dice_la_evidencia.png"><img src="capturas/mini/05_lo_que_dice_la_evidencia.png" width="120" alt="Lo que dice la evidencia"></a> | 🔬 **Lo que dice la evidencia** | Estudios y competencias de la matrona. |
+| <a href="capturas/06_propuestas.png"><img src="capturas/mini/06_propuestas.png" width="120" alt="Propuestas"></a> | 💡 **Propuestas** | Dónde suma una matrona. |
+| <a href="capturas/07_simulador_matronas_en_colegios.png"><img src="capturas/mini/07_simulador_matronas_en_colegios.png" width="120" alt="Simulador: matronas en colegios"></a> | 🏫 **Simulador: matronas en colegios** | Educación + anticonceptivos desde los 14 años. |
+| <a href="capturas/08_que_mide_cada_kpi.png"><img src="capturas/mini/08_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | 📐 **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
+| | 📚 **Fuentes** | Referencias de cada cifra. |
 
 ---
 
-## Vista del tablero en Power BI
+## 📊 Vista del tablero en Power BI
 
-### Resumen
+### 📊 Resumen
 
 Indicadores clave y hallazgos.
 
 ![Resumen](capturas/01_resumen.png)
 
-### Embarazo adolescente
+### 👧 Embarazo adolescente
 
 Fecundidad de 15 a 19 años y nacidos de madres adolescentes.
 
 ![Embarazo adolescente](capturas/02_embarazo_adolescente.png)
 
-### Matronas en Chile
+### 🩺 Matronas en Chile
 
 Inscritas por año y comparación con otras profesiones.
 
 ![Matronas en Chile](capturas/03_matronas_en_chile.png)
 
-### Mortalidad materna y neonatal
+### ❤️ Mortalidad materna y neonatal
 
 Chile, la región y el mundo.
 
 ![Mortalidad materna y neonatal](capturas/04_mortalidad_materna_y_neonatal.png)
 
-### Lo que dice la evidencia
+### 🔬 Lo que dice la evidencia
 
 Estudios y competencias de la matrona.
 
 ![Lo que dice la evidencia](capturas/05_lo_que_dice_la_evidencia.png)
 
-### Propuestas
+### 💡 Propuestas
 
 Dónde suma una matrona.
 
 ![Propuestas](capturas/06_propuestas.png)
 
-### Simulador: matronas en colegios
+### 🏫 Simulador: matronas en colegios
 
 Educación + anticonceptivos desde los 14 años.
 
 ![Simulador: matronas en colegios](capturas/07_simulador_matronas_en_colegios.png)
 
-### Qué mide cada KPI
+### 📐 Qué mide cada KPI
 
 Fórmula, qué evalúa, por qué importa y meta.
 
 ![Qué mide cada KPI](capturas/08_que_mide_cada_kpi.png)
 
-## Vista del tablero en Tableau
+## 🎨 Vista del tablero en Tableau
 
 El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y controles deslizantes.
 
-<details><summary><b>Resumen</b></summary>
+<details><summary>📊 <b>Resumen</b></summary>
 
 ![Resumen en Tableau](capturas/tableau/01_resumen.png)
 
 </details>
 
-<details><summary><b>Embarazo adolescente</b></summary>
+<details><summary>👧 <b>Embarazo adolescente</b></summary>
 
 ![Embarazo adolescente en Tableau](capturas/tableau/02_embarazo_adolescente.png)
 
 </details>
 
-<details><summary><b>Matronas en Chile</b></summary>
+<details><summary>🩺 <b>Matronas en Chile</b></summary>
 
 ![Matronas en Chile en Tableau](capturas/tableau/03_matronas_en_chile.png)
 
 </details>
 
-<details><summary><b>Mortalidad materna y neonatal</b></summary>
+<details><summary>❤️ <b>Mortalidad materna y neonatal</b></summary>
 
 ![Mortalidad materna y neonatal en Tableau](capturas/tableau/04_mortalidad_materna_y_neonatal.png)
 
 </details>
 
-<details><summary><b>Lo que dice la evidencia</b></summary>
+<details><summary>🔬 <b>Lo que dice la evidencia</b></summary>
 
 ![Lo que dice la evidencia en Tableau](capturas/tableau/05_lo_que_dice_la_evidencia.png)
 
 </details>
 
-<details><summary><b>Propuestas</b></summary>
+<details><summary>💡 <b>Propuestas</b></summary>
 
 ![Propuestas en Tableau](capturas/tableau/06_propuestas.png)
 
 </details>
 
-<details><summary><b>Simulador: matronas en colegios</b></summary>
+<details><summary>🏫 <b>Simulador: matronas en colegios</b></summary>
 
 ![Simulador: matronas en colegios en Tableau](capturas/tableau/07_simulador_matronas_en_colegios.png)
 
 </details>
 
-<details><summary><b>Qué mide cada KPI</b></summary>
+<details><summary>📐 <b>Qué mide cada KPI</b></summary>
 
 ![Qué mide cada KPI en Tableau](capturas/tableau/08_que_mide_cada_kpi.png)
 
@@ -182,30 +182,36 @@ El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y control
 
 ---
 
-## Archivos
+## 🎤 Presentación
 
-| Archivo | Qué es |
-|---|---|
-| `Embarazo_Matronas_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
-| `Embarazo_Matronas_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
-| `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
-| `Embarazo_Matronas_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
-| `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
-| `recursos/` | Logo con registro y fondo usados en los tableros. |
+La presentación [`Salud_Chile_en_datos_MariaCisterna.pptx`](../presentacion/Salud_Chile_en_datos_MariaCisterna.pptx) resume los cinco tableros: antes y ahora, Chile frente al mundo, métricas frente a sus metas, hallazgos, medidas y conclusiones.
 
 ---
 
-## Cómo abrirlo
+## 📁 Archivos
+
+| | Archivo | Qué es |
+|:---:|---|---|
+| 📊 | `Embarazo_Matronas_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
+| 🎨 | `Embarazo_Matronas_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
+| 🧩 | `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
+| 🗂️ | `Embarazo_Matronas_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
+| 🖼️ | `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
+| 🎀 | `recursos/` | Logo con registro y fondo usados en los tableros. |
+
+---
+
+## 🛠️ Cómo abrirlo
 
 1. Descarga el repositorio: botón verde **Code → Download ZIP** y descomprímelo.
 2. **Power BI:** abre `Embarazo_Matronas_MariaCisterna.pbix`. Para actualizar con tu copia del Excel: **Transformar datos → Administrar parámetros → RutaBaseDatos**, pega la ruta del `.xlsx` y aprieta **Actualizar**.
 3. **Tableau:** abre `Embarazo_Matronas_MariaCisterna.twbx`; los datos ya vienen incluidos.
 
-> **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
+> 💡 **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
 
 ---
 
-## Base de datos
+## 🗂️ Base de datos
 
 `Embarazo_Matronas_BaseDatos.xlsx` trae estas hojas: `Adolescentes`, `NoPlanificado`, `MatronasSerie`, `Profesiones`, `MatronasIndicadores`, `MortalidadMaterna`, `MaternaComparacion`, `MortalidadInfantil`, `Evidencia`, `Competencias`, `Propuestas`, `Hallazgos`, `AdolLargo`, `InfantilLargo`, `KPI`, `KPILargo`, `SimColegios`, `SimAcceso`, `SimEfecto`, `SimCondon`, `SimIndicadores`, `SimSupuestos`, `Fuentes`.
 
@@ -213,7 +219,7 @@ Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato p�
 
 ---
 
-## Fuentes
+## 📚 Fuentes
 
 - **E1** · MINSAL, Actualización de la situación de salud de adolescentes (2021). — [enlace](https://diprece.minsal.cl/wp-content/uploads/2021/06/ACTUALIZACION-SITUACION-DE-SALUD-DE-ADOLESCENTES-PROGRAMA-NACIONAL-DE-SALUD-INTEGRAL-DE-ADOLESCENTES-Y-JOVENES.pdf)
 - **E2** · INE, Enfoque estadístico maternidad y paternidad (2017). — [enlace](https://www.ine.gob.cl/docs/default-source/genero/documentos-de-an%C3%A1lisis/documentos/enfoque-maternidad-paternidad-2017.pdf)
@@ -270,10 +276,10 @@ Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato p�
 
 ---
 
-## Aviso
+## ⚠️ Aviso
 
 Material educativo y de análisis de datos. **No reemplaza la consejería ni el control con un profesional de salud.**
 
-## Derechos
+## ©️ Derechos
 
 © 2026 María Cisterna Escobar, matrona. Todos los derechos reservados: puedes ver y compartir el enlace, pero no copiar ni reutilizar el contenido sin autorización. Ver `LICENSE`.

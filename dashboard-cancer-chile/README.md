@@ -1,6 +1,6 @@
 <p align="center"><img src="recursos/logo_maria_cisterna.png" alt="María Cisterna · Matrona · Registro Superintendencia de Salud N° 561993" width="460"></p>
 
-<h1 align="center">Cáncer en Chile: cuánto aumenta y cómo ganarle</h1>
+<h1 align="center">🎗️ Cáncer en Chile: cuánto aumenta y cómo ganarle</h1>
 
 <p align="center"><b>María Cisterna Escobar · Matrona</b> — Registro Superintendencia de Salud N° 561993</p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## ¿Qué muestra?
+## ✨ ¿Qué muestra?
 
 <p><img src="recursos/mini_cinta_cancer_mama.png" height="64" alt=""> <img src="recursos/mini_cinta_cancer_cervicouterino.png" height="64" alt=""> <img src="recursos/mini_cinta_cancer_ovario.png" height="64" alt=""> <img src="recursos/mini_cinta_cancer_endometrio.png" height="64" alt=""> <img src="recursos/mini_cinta_cancer_prostata.png" height="64" alt=""> <img src="recursos/mini_cinta_cancer_testicular.png" height="64" alt=""> </p>
 
@@ -28,7 +28,7 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
-## KPI que uso y por qué
+## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |
 |---|---|---|---|---|---|
@@ -46,132 +46,132 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
-## Páginas del tablero
+## 🧭 Páginas del tablero
 
 | Vista | Página | Qué encuentras |
 |:---:|---|---|
-| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | **Resumen** | Casos y muertes por tipo de cáncer. |
-| <a href="capturas/02_esta_aumentando.png"><img src="capturas/mini/02_esta_aumentando.png" width="120" alt="¿Está aumentando?"></a> | **¿Está aumentando?** | Muertes por año y proyección. |
-| <a href="capturas/03_cual_predomina.png"><img src="capturas/mini/03_cual_predomina.png" width="120" alt="¿Cuál predomina?"></a> | **¿Cuál predomina?** | Los más frecuentes en hombres y mujeres. |
-| <a href="capturas/04_como_prevenirlo.png"><img src="capturas/mini/04_como_prevenirlo.png" width="120" alt="Cómo prevenirlo"></a> | **Cómo prevenirlo** | Prevención y detección de cada cáncer. |
-| <a href="capturas/05_chile_y_el_mundo.png"><img src="capturas/mini/05_chile_y_el_mundo.png" width="120" alt="Chile y el mundo"></a> | **Chile y el mundo** | Tasas y muertes por cada 10 casos. |
-| <a href="capturas/06_cancer_de_mama.png"><img src="capturas/mini/06_cancer_de_mama.png" width="120" alt="Cáncer de mama"></a> | **Cáncer de mama** | Muertes y mamografía. |
-| <a href="capturas/07_cuello_uterino.png"><img src="capturas/mini/07_cuello_uterino.png" width="120" alt="Cuello uterino"></a> | **Cuello uterino** | Vacuna VPH, PAP y mortalidad. |
-| <a href="capturas/08_detectarlo_a_tiempo.png"><img src="capturas/mini/08_detectarlo_a_tiempo.png" width="120" alt="Detectarlo a tiempo"></a> | **Detectarlo a tiempo** | Sobrevida según la etapa y exámenes. |
-| <a href="capturas/09_que_mide_cada_kpi.png"><img src="capturas/mini/09_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
-| | **Fuentes** | Referencias de cada cifra. |
+| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | 📊 **Resumen** | Casos y muertes por tipo de cáncer. |
+| <a href="capturas/02_esta_aumentando.png"><img src="capturas/mini/02_esta_aumentando.png" width="120" alt="¿Está aumentando?"></a> | 📈 **¿Está aumentando?** | Muertes por año y proyección. |
+| <a href="capturas/03_cual_predomina.png"><img src="capturas/mini/03_cual_predomina.png" width="120" alt="¿Cuál predomina?"></a> | ⚖️ **¿Cuál predomina?** | Los más frecuentes en hombres y mujeres. |
+| <a href="capturas/04_como_prevenirlo.png"><img src="capturas/mini/04_como_prevenirlo.png" width="120" alt="Cómo prevenirlo"></a> | 🛡️ **Cómo prevenirlo** | Prevención y detección de cada cáncer. |
+| <a href="capturas/05_chile_y_el_mundo.png"><img src="capturas/mini/05_chile_y_el_mundo.png" width="120" alt="Chile y el mundo"></a> | 🌍 **Chile y el mundo** | Tasas y muertes por cada 10 casos. |
+| <a href="capturas/06_cancer_de_mama.png"><img src="capturas/mini/06_cancer_de_mama.png" width="120" alt="Cáncer de mama"></a> | 🌸 **Cáncer de mama** | Muertes y mamografía. |
+| <a href="capturas/07_cuello_uterino.png"><img src="capturas/mini/07_cuello_uterino.png" width="120" alt="Cuello uterino"></a> | 💠 **Cuello uterino** | Vacuna VPH, PAP y mortalidad. |
+| <a href="capturas/08_detectarlo_a_tiempo.png"><img src="capturas/mini/08_detectarlo_a_tiempo.png" width="120" alt="Detectarlo a tiempo"></a> | 🔎 **Detectarlo a tiempo** | Sobrevida según la etapa y exámenes. |
+| <a href="capturas/09_que_mide_cada_kpi.png"><img src="capturas/mini/09_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | 📐 **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
+| | 📚 **Fuentes** | Referencias de cada cifra. |
 
 ---
 
-## Vista del tablero en Power BI
+## 📊 Vista del tablero en Power BI
 
-### Resumen
+### 📊 Resumen
 
 Casos y muertes por tipo de cáncer.
 
 ![Resumen](capturas/01_resumen.png)
 
-### ¿Está aumentando?
+### 📈 ¿Está aumentando?
 
 Muertes por año y proyección.
 
 ![¿Está aumentando?](capturas/02_esta_aumentando.png)
 
-### ¿Cuál predomina?
+### ⚖️ ¿Cuál predomina?
 
 Los más frecuentes en hombres y mujeres.
 
 ![¿Cuál predomina?](capturas/03_cual_predomina.png)
 
-### Cómo prevenirlo
+### 🛡️ Cómo prevenirlo
 
 Prevención y detección de cada cáncer.
 
 ![Cómo prevenirlo](capturas/04_como_prevenirlo.png)
 
-### Chile y el mundo
+### 🌍 Chile y el mundo
 
 Tasas y muertes por cada 10 casos.
 
 ![Chile y el mundo](capturas/05_chile_y_el_mundo.png)
 
-### Cáncer de mama
+### 🌸 Cáncer de mama
 
 Muertes y mamografía.
 
 ![Cáncer de mama](capturas/06_cancer_de_mama.png)
 
-### Cuello uterino
+### 💠 Cuello uterino
 
 Vacuna VPH, PAP y mortalidad.
 
 ![Cuello uterino](capturas/07_cuello_uterino.png)
 
-### Detectarlo a tiempo
+### 🔎 Detectarlo a tiempo
 
 Sobrevida según la etapa y exámenes.
 
 ![Detectarlo a tiempo](capturas/08_detectarlo_a_tiempo.png)
 
-### Qué mide cada KPI
+### 📐 Qué mide cada KPI
 
 Fórmula, qué evalúa, por qué importa y meta.
 
 ![Qué mide cada KPI](capturas/09_que_mide_cada_kpi.png)
 
-## Vista del tablero en Tableau
+## 🎨 Vista del tablero en Tableau
 
 El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y controles deslizantes.
 
-<details><summary><b>Resumen</b></summary>
+<details><summary>📊 <b>Resumen</b></summary>
 
 ![Resumen en Tableau](capturas/tableau/01_resumen.png)
 
 </details>
 
-<details><summary><b>¿Está aumentando?</b></summary>
+<details><summary>📈 <b>¿Está aumentando?</b></summary>
 
 ![¿Está aumentando? en Tableau](capturas/tableau/02_esta_aumentando.png)
 
 </details>
 
-<details><summary><b>¿Cuál predomina?</b></summary>
+<details><summary>⚖️ <b>¿Cuál predomina?</b></summary>
 
 ![¿Cuál predomina? en Tableau](capturas/tableau/03_cual_predomina.png)
 
 </details>
 
-<details><summary><b>Cómo prevenirlo</b></summary>
+<details><summary>🛡️ <b>Cómo prevenirlo</b></summary>
 
 ![Cómo prevenirlo en Tableau](capturas/tableau/04_como_prevenirlo.png)
 
 </details>
 
-<details><summary><b>Chile y el mundo</b></summary>
+<details><summary>🌍 <b>Chile y el mundo</b></summary>
 
 ![Chile y el mundo en Tableau](capturas/tableau/05_chile_y_el_mundo.png)
 
 </details>
 
-<details><summary><b>Cáncer de mama</b></summary>
+<details><summary>🌸 <b>Cáncer de mama</b></summary>
 
 ![Cáncer de mama en Tableau](capturas/tableau/06_cancer_de_mama.png)
 
 </details>
 
-<details><summary><b>Cuello uterino</b></summary>
+<details><summary>💠 <b>Cuello uterino</b></summary>
 
 ![Cuello uterino en Tableau](capturas/tableau/07_cuello_uterino.png)
 
 </details>
 
-<details><summary><b>Detectarlo a tiempo</b></summary>
+<details><summary>🔎 <b>Detectarlo a tiempo</b></summary>
 
 ![Detectarlo a tiempo en Tableau](capturas/tableau/08_detectarlo_a_tiempo.png)
 
 </details>
 
-<details><summary><b>Qué mide cada KPI</b></summary>
+<details><summary>📐 <b>Qué mide cada KPI</b></summary>
 
 ![Qué mide cada KPI en Tableau](capturas/tableau/09_que_mide_cada_kpi.png)
 
@@ -179,30 +179,36 @@ El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y control
 
 ---
 
-## Archivos
+## 🎤 Presentación
 
-| Archivo | Qué es |
-|---|---|
-| `Cancer_Chile_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
-| `Cancer_Chile_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
-| `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
-| `Cancer_Chile_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
-| `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
-| `recursos/` | Logo con registro y fondo usados en los tableros. |
+La presentación [`Salud_Chile_en_datos_MariaCisterna.pptx`](../presentacion/Salud_Chile_en_datos_MariaCisterna.pptx) resume los cinco tableros: antes y ahora, Chile frente al mundo, métricas frente a sus metas, hallazgos, medidas y conclusiones.
 
 ---
 
-## Cómo abrirlo
+## 📁 Archivos
+
+| | Archivo | Qué es |
+|:---:|---|---|
+| 📊 | `Cancer_Chile_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
+| 🎨 | `Cancer_Chile_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
+| 🧩 | `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
+| 🗂️ | `Cancer_Chile_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
+| 🖼️ | `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
+| 🎀 | `recursos/` | Logo con registro y fondo usados en los tableros. |
+
+---
+
+## 🛠️ Cómo abrirlo
 
 1. Descarga el repositorio: botón verde **Code → Download ZIP** y descomprímelo.
 2. **Power BI:** abre `Cancer_Chile_MariaCisterna.pbix`. Para actualizar con tu copia del Excel: **Transformar datos → Administrar parámetros → RutaBaseDatos**, pega la ruta del `.xlsx` y aprieta **Actualizar**.
 3. **Tableau:** abre `Cancer_Chile_MariaCisterna.twbx`; los datos ya vienen incluidos.
 
-> **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
+> 💡 **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
 
 ---
 
-## Base de datos
+## 🗂️ Base de datos
 
 `Cancer_Chile_BaseDatos.xlsx` trae estas hojas: `Globocan2024`, `MamaMuertes`, `CervixTasa`, `CervixMuertes`, `Pesquisa`, `KPI`, `KPILargo`, `ChileMundoLargo`, `SobrevidaLargo`, `Fuentes`, `ChileMundo`, `SobrevidaEtapa`, `SimuladorSupuestos`, `TopIncidencia`, `TopMortalidad`, `PorSexo`, `MuertesSerie`, `Prevencion`.
 
@@ -210,7 +216,7 @@ Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato p�
 
 ---
 
-## Fuentes
+## 📚 Fuentes
 
 - **C1** · GLOBOCAN 2024 (IARC/OMS, sept. 2026): Chile, Latinoamérica y el Caribe, Mundo — [enlace](https://gco.iarc.who.int/media/globocan/factsheets/populations/152-chile-fact-sheet.pdf)
 - **C2** · MINSAL: reducción 56% mortalidad cáncer cervicouterino (2025) — [enlace](https://www.minsal.cl/ministra-aguilera-destaca-reduccion-del-56-en-mortalidad-por-cancer-cervicouterino-gracias-a-politicas-de-estado/)
@@ -230,10 +236,10 @@ Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato p�
 
 ---
 
-## Aviso
+## ⚠️ Aviso
 
 Material educativo y de análisis de datos. **No reemplaza la consejería ni el control con un profesional de salud.**
 
-## Derechos
+## ©️ Derechos
 
 © 2026 María Cisterna Escobar, matrona. Todos los derechos reservados: puedes ver y compartir el enlace, pero no copiar ni reutilizar el contenido sin autorización. Ver `LICENSE`.

@@ -1,6 +1,6 @@
 <p align="center"><img src="recursos/logo_maria_cisterna.png" alt="María Cisterna · Matrona · Registro Superintendencia de Salud N° 561993" width="460"></p>
 
-<h1 align="center">ITS en Chile</h1>
+<h1 align="center">🩺 ITS en Chile</h1>
 
 <p align="center"><b>María Cisterna Escobar · Matrona</b> — Registro Superintendencia de Salud N° 561993</p>
 
@@ -14,21 +14,21 @@
 
 <p align="center"><a href="capturas/01_resumen.png"><img src="capturas/01_resumen.png" width="860" alt="ITS en Chile"></a></p>
 
-<p align="center"><a href="capturas/02_tendencias.png"><img src="capturas/mini/02_tendencias.png" width="130" alt="Tendencias"></a> <a href="capturas/03_a_quienes_afecta.png"><img src="capturas/mini/03_a_quienes_afecta.png" width="130" alt="¿A quiénes afecta?"></a> <a href="capturas/04_chile_y_el_mundo.png"><img src="capturas/mini/04_chile_y_el_mundo.png" width="130" alt="Chile y el mundo"></a> <a href="capturas/05_guia_de_cada_its.png"><img src="capturas/mini/05_guia_de_cada_its.png" width="130" alt="Guía de cada ITS"></a> <a href="capturas/06_simulador_matronas_en_colegios.png"><img src="capturas/mini/06_simulador_matronas_en_colegios.png" width="130" alt="Simulador: matronas en colegios"></a> <a href="capturas/07_que_mide_cada_kpi.png"><img src="capturas/mini/07_que_mide_cada_kpi.png" width="130" alt="Qué mide cada KPI"></a></p>
+<p align="center"><a href="capturas/02_tendencias.png"><img src="capturas/mini/02_tendencias.png" width="130" alt="Tendencias"></a> <a href="capturas/03_a_quienes_afecta.png"><img src="capturas/mini/03_a_quienes_afecta.png" width="130" alt="¿A quiénes afecta?"></a> <a href="capturas/04_chile_y_el_mundo.png"><img src="capturas/mini/04_chile_y_el_mundo.png" width="130" alt="Chile y el mundo"></a> <a href="capturas/04b_todas_las_its.png"><img src="capturas/mini/04b_todas_las_its.png" width="130" alt="Todas las ITS"></a> <a href="capturas/05_guia_de_cada_its.png"><img src="capturas/mini/05_guia_de_cada_its.png" width="130" alt="Guía de cada ITS"></a> <a href="capturas/06_simulador_matronas_en_colegios.png"><img src="capturas/mini/06_simulador_matronas_en_colegios.png" width="130" alt="Simulador: matronas en colegios"></a> <a href="capturas/07_que_mide_cada_kpi.png"><img src="capturas/mini/07_que_mide_cada_kpi.png" width="130" alt="Qué mide cada KPI"></a></p>
 
 ---
 
-## ¿Qué muestra?
+## ✨ ¿Qué muestra?
 
 <p><img src="recursos/mini_cinta_vih.png" height="64" alt=""> </p>
 
-Sífilis, gonorrea y VIH en Chile: cómo han aumentado, a quiénes afectan, cómo está Chile frente al mundo, una guía clínica de cada ITS y un **simulador** de lo que cambiaría con matronas haciendo educación sexual integral en los colegios.
+Las ITS en Chile —sífilis, gonorrea, VIH, hepatitis B, clamidia, VPH, herpes, tricomoniasis, linfogranuloma venéreo y mpox—: cómo han aumentado, a quiénes afectan, cómo está Chile frente al mundo, una guía clínica de cada ITS y un **simulador** de lo que cambiaría con matronas haciendo educación sexual integral en los colegios.
 
 Cada página parte con sus **indicadores clave (KPI)** y una página final explica **qué mide cada KPI, cómo se calcula y por qué importa**. Power BI y Tableau tienen las mismas páginas.
 
 ---
 
-## KPI que uso y por qué
+## 📌 KPI que uso y por qué
 
 | KPI | Valor en Chile | Cómo se calcula | Qué evalúa | Por qué importa | Meta o referencia |
 |---|---|---|---|---|---|
@@ -45,125 +45,138 @@ Cada página parte con sus **indicadores clave (KPI)** y una página final expli
 
 ---
 
-## Simulador: ¿qué pasaría con matronas en los colegios?
+## 🏫 Simulador: ¿qué pasaría con matronas en los colegios?
 
 <a href="capturas/06_simulador_matronas_en_colegios.png"><img src="capturas/mini/06_simulador_matronas_en_colegios.png" width="330" align="right" alt="Simulador"></a>
 
 Página interactiva, en Power BI y en Tableau, para explorar escenarios de prevención:
 
-- **% de colegios con matrona:** qué parte de los colegios tendría una matrona haciendo educación sexual integral.
-- **Anticonceptivos desde los 14 años:** si además se entregan métodos (la Ley 20.418 garantiza información y acceso; desde los 14 años la atención es confidencial).
-- **Escenario de efecto:** 5% (conservador) o 10% (alto) menos nacimientos adolescentes, según la evidencia de acceso gratuito a DIU e implantes.
-- **Más uso de condón:** cuántos puntos sube el uso de condón gracias a la educación; el condón usado siempre reduce cerca de 80% la transmisión del VIH.
+- 🏫 **% de colegios con matrona:** qué parte de los colegios tendría una matrona haciendo educación sexual integral.
+- 💊 **Anticonceptivos desde los 14 años:** si además se entregan métodos (la Ley 20.418 garantiza información y acceso; desde los 14 años la atención es confidencial).
+- 📊 **Escenario de efecto:** 5% (conservador) o 10% (alto) menos nacimientos adolescentes, según la evidencia de acceso gratuito a DIU e implantes.
+- 🛡️ **Más uso de condón:** cuántos puntos sube el uso de condón gracias a la educación; el condón usado siempre reduce cerca de 80% la transmisión del VIH.
 
 El tablero calcula los **nacimientos adolescentes evitados**, la **tasa de 15 a 19 años proyectada** y los **casos de gonorrea y sífilis evitados**, y explica cómo ayuda la matrona: educación sexual integral, receta de DIU, implante y otros métodos (Ley 20.533), test rápido de VIH y sífilis y atención confidencial.
 
 <br clear="right">
 
-> Es una **simulación educativa con supuestos explícitos**, no una proyección oficial. La educación sola, sin acceso a métodos, no mostró un efecto claro en embarazos (Cochrane 2016): por eso el simulador separa los dos efectos.
+> ⚠️ Es una **simulación educativa con supuestos explícitos**, no una proyección oficial. La educación sola, sin acceso a métodos, no mostró un efecto claro en embarazos (Cochrane 2016): por eso el simulador separa los dos efectos.
 
 ---
 
-## Páginas del tablero
+## 🧭 Páginas del tablero
 
 | Vista | Página | Qué encuentras |
 |:---:|---|---|
-| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | **Resumen** | Indicadores clave, hallazgos y rol de la matrona. |
-| <a href="capturas/02_tendencias.png"><img src="capturas/mini/02_tendencias.png" width="120" alt="Tendencias"></a> | **Tendencias** | Casos y tasa por año de cada ITS. |
-| <a href="capturas/03_a_quienes_afecta.png"><img src="capturas/mini/03_a_quienes_afecta.png" width="120" alt="¿A quiénes afecta?"></a> | **¿A quiénes afecta?** | Edad y sexo. |
-| <a href="capturas/04_chile_y_el_mundo.png"><img src="capturas/mini/04_chile_y_el_mundo.png" width="120" alt="Chile y el mundo"></a> | **Chile y el mundo** | Comparación con Europa y cascada VIH 95-95-95. |
-| <a href="capturas/05_guia_de_cada_its.png"><img src="capturas/mini/05_guia_de_cada_its.png" width="120" alt="Guía de cada ITS"></a> | **Guía de cada ITS** | Síntomas, alarma, tratamiento, embarazo y quién atiende. |
-| <a href="capturas/06_simulador_matronas_en_colegios.png"><img src="capturas/mini/06_simulador_matronas_en_colegios.png" width="120" alt="Simulador: matronas en colegios"></a> | **Simulador: matronas en colegios** | Mueve los supuestos y mira cuántos casos se evitan. |
-| <a href="capturas/07_que_mide_cada_kpi.png"><img src="capturas/mini/07_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
-| | **Fuentes** | Referencias de cada cifra. |
+| <a href="capturas/01_resumen.png"><img src="capturas/mini/01_resumen.png" width="120" alt="Resumen"></a> | 📊 **Resumen** | Indicadores clave, hallazgos y rol de la matrona. |
+| <a href="capturas/02_tendencias.png"><img src="capturas/mini/02_tendencias.png" width="120" alt="Tendencias"></a> | 📈 **Tendencias** | Casos y tasa por año de cada ITS. |
+| <a href="capturas/03_a_quienes_afecta.png"><img src="capturas/mini/03_a_quienes_afecta.png" width="120" alt="¿A quiénes afecta?"></a> | 👥 **¿A quiénes afecta?** | Edad y sexo. |
+| <a href="capturas/04_chile_y_el_mundo.png"><img src="capturas/mini/04_chile_y_el_mundo.png" width="120" alt="Chile y el mundo"></a> | 🌍 **Chile y el mundo** | Chile frente a EE.UU. y Europa, y cascada VIH 95-95-95. |
+| <a href="capturas/04b_todas_las_its.png"><img src="capturas/mini/04b_todas_las_its.png" width="120" alt="Todas las ITS"></a> | 🧪 **Todas las ITS** | Las 10 ITS: qué se vigila en Chile y cuánto hay en el mundo. |
+| <a href="capturas/05_guia_de_cada_its.png"><img src="capturas/mini/05_guia_de_cada_its.png" width="120" alt="Guía de cada ITS"></a> | 📖 **Guía de cada ITS** | Síntomas, alarma, tratamiento, embarazo y quién atiende. |
+| <a href="capturas/06_simulador_matronas_en_colegios.png"><img src="capturas/mini/06_simulador_matronas_en_colegios.png" width="120" alt="Simulador: matronas en colegios"></a> | 🏫 **Simulador: matronas en colegios** | Mueve los supuestos y mira cuántos casos se evitan. |
+| <a href="capturas/07_que_mide_cada_kpi.png"><img src="capturas/mini/07_que_mide_cada_kpi.png" width="120" alt="Qué mide cada KPI"></a> | 📐 **Qué mide cada KPI** | Fórmula, qué evalúa, por qué importa y meta. |
+| | 📚 **Fuentes** | Referencias de cada cifra. |
 
 ---
 
-## Vista del tablero en Power BI
+## 📊 Vista del tablero en Power BI
 
-### Resumen
+### 📊 Resumen
 
 Indicadores clave, hallazgos y rol de la matrona.
 
 ![Resumen](capturas/01_resumen.png)
 
-### Tendencias
+### 📈 Tendencias
 
 Casos y tasa por año de cada ITS.
 
 ![Tendencias](capturas/02_tendencias.png)
 
-### ¿A quiénes afecta?
+### 👥 ¿A quiénes afecta?
 
 Edad y sexo.
 
 ![¿A quiénes afecta?](capturas/03_a_quienes_afecta.png)
 
-### Chile y el mundo
+### 🌍 Chile y el mundo
 
-Comparación con Europa y cascada VIH 95-95-95.
+Chile frente a EE.UU. y Europa, y cascada VIH 95-95-95.
 
 ![Chile y el mundo](capturas/04_chile_y_el_mundo.png)
 
-### Guía de cada ITS
+### 🧪 Todas las ITS
+
+Las 10 ITS: qué se vigila en Chile y cuánto hay en el mundo.
+
+![Todas las ITS](capturas/04b_todas_las_its.png)
+
+### 📖 Guía de cada ITS
 
 Síntomas, alarma, tratamiento, embarazo y quién atiende.
 
 ![Guía de cada ITS](capturas/05_guia_de_cada_its.png)
 
-### Simulador: matronas en colegios
+### 🏫 Simulador: matronas en colegios
 
 Mueve los supuestos y mira cuántos casos se evitan.
 
 ![Simulador: matronas en colegios](capturas/06_simulador_matronas_en_colegios.png)
 
-### Qué mide cada KPI
+### 📐 Qué mide cada KPI
 
 Fórmula, qué evalúa, por qué importa y meta.
 
 ![Qué mide cada KPI](capturas/07_que_mide_cada_kpi.png)
 
-## Vista del tablero en Tableau
+## 🎨 Vista del tablero en Tableau
 
 El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y controles deslizantes.
 
-<details><summary><b>Resumen</b></summary>
+<details><summary>📊 <b>Resumen</b></summary>
 
 ![Resumen en Tableau](capturas/tableau/01_resumen.png)
 
 </details>
 
-<details><summary><b>Tendencias</b></summary>
+<details><summary>📈 <b>Tendencias</b></summary>
 
 ![Tendencias en Tableau](capturas/tableau/02_tendencias.png)
 
 </details>
 
-<details><summary><b>¿A quiénes afecta?</b></summary>
+<details><summary>👥 <b>¿A quiénes afecta?</b></summary>
 
 ![¿A quiénes afecta? en Tableau](capturas/tableau/03_a_quienes_afecta.png)
 
 </details>
 
-<details><summary><b>Chile y el mundo</b></summary>
+<details><summary>🌍 <b>Chile y el mundo</b></summary>
 
 ![Chile y el mundo en Tableau](capturas/tableau/04_chile_y_el_mundo.png)
 
 </details>
 
-<details><summary><b>Guía de cada ITS</b></summary>
+<details><summary>🧪 <b>Todas las ITS</b></summary>
+
+![Todas las ITS en Tableau](capturas/tableau/04b_todas_las_its.png)
+
+</details>
+
+<details><summary>📖 <b>Guía de cada ITS</b></summary>
 
 ![Guía de cada ITS en Tableau](capturas/tableau/05_guia_de_cada_its.png)
 
 </details>
 
-<details><summary><b>Simulador: matronas en colegios</b></summary>
+<details><summary>🏫 <b>Simulador: matronas en colegios</b></summary>
 
 ![Simulador: matronas en colegios en Tableau](capturas/tableau/06_simulador_matronas_en_colegios.png)
 
 </details>
 
-<details><summary><b>Qué mide cada KPI</b></summary>
+<details><summary>📐 <b>Qué mide cada KPI</b></summary>
 
 ![Qué mide cada KPI en Tableau](capturas/tableau/07_que_mide_cada_kpi.png)
 
@@ -171,38 +184,44 @@ El `.twbx` tiene las mismas páginas, con filtros, listas desplegables y control
 
 ---
 
-## Archivos
+## 🎤 Presentación
 
-| Archivo | Qué es |
-|---|---|
-| `ITS_Chile_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
-| `ITS_Chile_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
-| `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
-| `ITS_Chile_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
-| `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
-| `recursos/` | Logo con registro y fondo usados en los tableros. |
+La presentación [`Salud_Chile_en_datos_MariaCisterna.pptx`](../presentacion/Salud_Chile_en_datos_MariaCisterna.pptx) resume los cinco tableros: antes y ahora, Chile frente al mundo, métricas frente a sus metas, hallazgos, medidas y conclusiones.
 
 ---
 
-## Cómo abrirlo
+## 📁 Archivos
+
+| | Archivo | Qué es |
+|:---:|---|---|
+| 📊 | `ITS_Chile_MariaCisterna.pbix` | Tablero de **Power BI**. Ábrelo con Power BI Desktop (gratis). |
+| 🎨 | `ITS_Chile_MariaCisterna.twbx` | Tablero de **Tableau**. Ábrelo con Tableau Public o Tableau Desktop. |
+| 🧩 | `PowerBI_proyecto_pbip.zip` | **Proyecto editable** de Power BI (PBIP): descomprime y abre el `.pbip`. |
+| 🗂️ | `ITS_Chile_BaseDatos.xlsx` | **Base de datos** con todas las tablas, la hoja `KPI` y la hoja `Fuentes`. |
+| 🖼️ | `capturas/` | Imágenes de cada página en Power BI y en Tableau, y miniaturas en `capturas/mini/`. |
+| 🎀 | `recursos/` | Logo con registro y fondo usados en los tableros. |
+
+---
+
+## 🛠️ Cómo abrirlo
 
 1. Descarga el repositorio: botón verde **Code → Download ZIP** y descomprímelo.
 2. **Power BI:** abre `ITS_Chile_MariaCisterna.pbix`. Para actualizar con tu copia del Excel: **Transformar datos → Administrar parámetros → RutaBaseDatos**, pega la ruta del `.xlsx` y aprieta **Actualizar**.
 3. **Tableau:** abre `ITS_Chile_MariaCisterna.twbx`; los datos ya vienen incluidos.
 
-> **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
+> 💡 **Tip:** las listas de la izquierda, los menús desplegables y los controles deslizantes son interactivos: elige una opción y el tablero cambia.
 
 ---
 
-## Base de datos
+## 🗂️ Base de datos
 
-`ITS_Chile_BaseDatos.xlsx` trae estas hojas: `Tendencias`, `EdadTasa`, `SexoComparacion`, `SexoTasas`, `ChileVsEuropa`, `CascadaVIH`, `Indicadores`, `GuiaClinica`, `Hallazgos`, `RolMatrona`, `SexoLargo`, `MundoLargo`, `CascadaLargo`, `GuiaLarga`, `KPI`, `KPILargo`, `SimColegios`, `SimAcceso`, `SimEfecto`, `SimCondon`, `SimIndicadores`, `SimSupuestos`, `Fuentes`.
+`ITS_Chile_BaseDatos.xlsx` trae estas hojas: `Tendencias`, `EdadTasa`, `SexoComparacion`, `SexoTasas`, `ChileVsEuropa`, `CascadaVIH`, `Indicadores`, `GuiaClinica`, `Hallazgos`, `RolMatrona`, `SexoLargo`, `MundoLargo`, `CascadaLargo`, `GuiaLarga`, `KPI`, `KPILargo`, `SimColegios`, `SimAcceso`, `SimEfecto`, `SimCondon`, `SimIndicadores`, `SimSupuestos`, `TodasITS`, `ChileMundoITS`, `Fuentes`.
 
 Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato público, queda vacío: **no se inventaron cifras**.
 
 ---
 
-## Fuentes
+## 📚 Fuentes
 
 - **S1** · Rev Chil Infectol 2025. Caracterización epidemiológica de la sífilis en Chile 2018–2022 (datos de notificación MINSAL). — [enlace](https://revinf.cl/index.php/revinf/article/download/2492/1138)
 - **S2** · MINSAL, Informe Epidemiológico Anual 2025 de sífilis (vía Meganoticias, 19-08-2026). — [enlace](https://www.meganoticias.cl/nacional/529712-sifilis-alcanza-record-historico-en-chile-casos-se-disparan-aumento-entre-adultos-mayores-y-mujeres-60-anos-19-08-2026.html)
@@ -243,13 +262,27 @@ Cada fila indica su fuente en la columna `FuenteID`. Si un año no tiene dato p�
 - **S41** · Lindo y Packham (UC Davis): acceso a anticonceptivos de larga duración y nacimientos adolescentes. — [enlace](https://www.nber.org/papers/w21544)
 - **S42** · Mason-Jones et al., Cochrane 2016: educación sexual escolar para prevenir ITS y embarazo. — [enlace](https://doi.org/10.1002/14651858.CD006417.pub3)
 - **S43** · OMS, nota descriptiva: educación sexual integral. — [enlace](https://www.who.int/news-room/questions-and-answers/item/comprehensive-sexuality-education)
+- **S44** · CDC, Sexually Transmitted Infections Surveillance 2023 (tasas de sífilis, gonorrea y clamidia en EE.UU.). — [enlace](https://www.cdc.gov/sti-statistics/annual/index.html)
+- **S45** · CDC, HIV Surveillance Report: diagnósticos de VIH 2023 en EE.UU. — [enlace](https://stacks.cdc.gov/view/cdc/177771)
+- **S46** · ONUSIDA, ficha mundial 2026 (datos 2025). — [enlace](https://www.unaids.org/sites/default/files/2026-06/20260612_Global_HIV_Factsheet.pdf)
+- **S47** · Decreto 7/2019 MINSAL: reglamento de enfermedades de notificación obligatoria. — [enlace](https://www.diariooficial.interior.gob.cl/publicaciones/2020/01/24/42561/01/1715587.pdf)
+- **S48** · Rev Chil Infectol 2012: Chlamydia trachomatis y Trichomonas vaginalis en embarazadas de Santiago. — [enlace](https://pesquisa.bvsalud.org/gim/resource/en/lil-660024)
+- **S49** · OMS, nota descriptiva: clamidia. — [enlace](https://www.who.int/news-room/fact-sheets/detail/chlamydia)
+- **S50** · Rev Méd Chile 2026: prevalencia de VPH en mujeres en tamizaje (Huechuraba 2014–2023). — [enlace](https://www.revistamedicadechile.cl/)
+- **S51** · OMS 2023: uno de cada tres hombres en el mundo tiene VPH genital. — [enlace](https://www.who.int/news/item/01-09-2023-one-in-three-men-worldwide-are-infected-with-genital-human-papillomavirus)
+- **S52** · OMS 2024: más de 1 de cada 5 adultos en el mundo tiene herpes genital. — [enlace](https://www.who.int/news/item/11-12-2024-over-1-in-5-adults-worldwide-has-a-genital-herpes-infection-who)
+- **S53** · OMS, nota descriptiva: tricomoniasis. — [enlace](https://www.who.int/news-room/fact-sheets/detail/Trichomoniasis)
+- **S54** · OPS/OMS 2024: hepatitis virales en el mundo (Informe mundial de hepatitis 2024). — [enlace](https://www.paho.org/en/news/10-4-2024-who-sounds-alarm-viral-hepatitis-infections-claiming-3500-lives-each-day)
+- **S55** · OPS, actualización epidemiológica de mpox (abril 2026). — [enlace](https://www.paho.org/sites/default/files/2026/04/23042026actualizacion-epi-mpoxesfinal.pdf)
+- **S56** · MINSAL, casos de mpox en Chile 2022–2024 (vía El Dínamo, 14-08-2024). — [enlace](https://www.eldinamo.cl/sociedad/2024/08/14/oms-declara-emergencia-sanitaria-internacional-por-viruela-del-mono-cuantos-casos-hay-en-chile-y-como-se-contagia/)
+- **S57** · ECDC, linfogranuloma venéreo, informe anual 2024. — [enlace](https://www.ecdc.europa.eu/en/publications-data/lymphogranuloma-venereum-annual-epidemiological-report-2024)
 
 ---
 
-## Aviso
+## ⚠️ Aviso
 
 Material educativo y de análisis de datos. **No reemplaza la consejería ni el control con un profesional de salud.**
 
-## Derechos
+## ©️ Derechos
 
 © 2026 María Cisterna Escobar, matrona. Todos los derechos reservados: puedes ver y compartir el enlace, pero no copiar ni reutilizar el contenido sin autorización. Ver `LICENSE`.

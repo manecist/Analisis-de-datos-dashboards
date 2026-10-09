@@ -1,10 +1,19 @@
-<p align="center"><img src="recursos/logo_maria_cisterna.png" alt="María Cisterna · Matrona" width="420"></p>
+<p align="center"><img src="recursos/logo_maria_cisterna.png" alt="María Cisterna · Matrona · Registro Superintendencia de Salud N° 561993" width="460"></p>
 
-# 💊 Anticonceptivos en Chile
+<h1 align="center">💊 Anticonceptivos en Chile</h1>
 
-**María Cisterna Escobar · Matrona** — Registro Superintendencia de Salud N° 561993
+<p align="center"><b>María Cisterna Escobar · Matrona</b> — Registro Superintendencia de Salud N° 561993</p>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-tablero-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-tablero-E97627?logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-base%20de%20datos-217346?logo=microsoftexcel&logoColor=white) ![Fuentes](https://img.shields.io/badge/fuentes-p%C3%BAblicas-6B3FD4)
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-tablero%20interactivo-F2C811?logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-tablero%20interactivo-E97627?logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-base%20de%20datos-217346?logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/fuentes-p%C3%BAblicas-EE6FB0">
+</p>
+
+<p align="center"><a href="capturas/01_resumen_rapido.png"><img src="capturas/01_resumen_rapido.png" width="860" alt="Anticonceptivos en Chile"></a></p>
+
+<p align="center"><a href="capturas/02_eficacia.png"><img src="capturas/mini/02_eficacia.png" width="130" alt="Eficacia"></a> <a href="capturas/03_mi_pastilla.png"><img src="capturas/mini/03_mi_pastilla.png" width="130" alt="Mi pastilla"></a> <a href="capturas/04_puedo_usarlo.png"><img src="capturas/mini/04_puedo_usarlo.png" width="130" alt="¿Puedo usarlo?"></a> <a href="capturas/05_que_baja_la_eficacia.png"><img src="capturas/mini/05_que_baja_la_eficacia.png" width="130" alt="¿Qué baja la eficacia?"></a> <a href="capturas/06_chile.png"><img src="capturas/mini/06_chile.png" width="130" alt="Chile"></a></p>
 
 ---
 
@@ -41,6 +50,12 @@ Resumen de menor a mayor riesgo, eficacia, seguridad, beneficios, «Mi pastilla�
 ### Chile
 
 ![Chile](capturas/06_chile.png)
+
+---
+
+## 🎤 Presentación
+
+La presentación [`Salud_Chile_en_datos_MariaCisterna.pptx`](../presentacion/Salud_Chile_en_datos_MariaCisterna.pptx) resume los cinco tableros: antes y ahora, Chile frente al mundo, métricas frente a sus metas, hallazgos, medidas y conclusiones.
 
 ---
 
